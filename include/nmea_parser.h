@@ -1,3 +1,5 @@
+#include <stdbool.h>
+
 #define RXD_PORT 20
 #define TXD_PORT 21
 
